@@ -1,4 +1,10 @@
-## Hi there 👋
+<!-- ![Avatar Here] 
+
+I'm just starting my coding journey with [School of code](https://schoolofcode.co.uk/). Excited to get going and learn the skills I need to progress into the tech insdustry.
+
+
+-->
+
 
 <!--
 **Holl4444/Holl4444** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
