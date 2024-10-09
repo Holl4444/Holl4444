@@ -1,16 +1,20 @@
-## Hi there 👋
 
-<!--
-**Holl4444/Holl4444** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![GitBanner](https://github.com/user-attachments/assets/3d245603-84ea-4061-8f8f-d906b7fc0b5e)
+<br>
+<br>
+## Hi, I'm Holly.<br>
+I'm just starting out on my journey with [School of Code](https://schoolofcode.co.uk/), making my first steps towards a career in tech.
+Loving *every* aspect of coding so far and excited to push myself further.
 
-Here are some ideas to get you started:
+When I'm not learning I'm usually immersed in an audio book, cuddling a cat 🐈‍⬛ or playing computer games.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages I've dabbled with so far:
+<details>
+  <summary>Tiny knowledge of...</summary>
+  
+  - HTML
+  - CSS
+  - Python
+  - C
+
+</details><br>
