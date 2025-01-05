@@ -18,7 +18,7 @@ When I'm not learning I'm usually immersed in an audio book, cuddling a cat 🐈
   - Python
   - C
 
-</details><br>
+</details>
 
 ### Some of the tools I've worked with:
 <details>
