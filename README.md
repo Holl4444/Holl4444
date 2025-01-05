@@ -11,10 +11,18 @@ When I'm not learning I'm usually immersed in an audio book, cuddling a cat 🐈
 ### Languages I've dabbled with so far:
 <details>
   <summary>Tiny knowledge of...</summary>
-  
+
+  - JS
   - HTML
   - CSS
   - Python
   - C
 
 </details><br>
+
+### Some of the tools I've worked with:
+<details>
+  - Git!
+  - NodeJs
+  - express
+</details>
