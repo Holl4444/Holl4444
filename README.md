@@ -22,7 +22,10 @@ When I'm not learning I'm usually immersed in an audio book, cuddling a cat 🐈
 
 ### Some of the tools I've worked with:
 <details>
-  - Git!
-  - NodeJs
-  - express
+  <summary>🔧</summary>
+  
+  * Git!
+  * NodeJs
+  * express
+
 </details>
