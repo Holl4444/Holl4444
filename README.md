@@ -15,6 +15,7 @@ When I'm not learning I'm usually immersed in an audio book, cuddling a cat 🐈
   - JS
   - HTML
   - CSS
+  - SQL
   - Python
   - C
 
