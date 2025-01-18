@@ -26,6 +26,10 @@ When I'm not learning I'm usually immersed in an audio book, cuddling a cat 🐈
   
   * Git!
   * NodeJs
-  * express
+  * Express
+  * Vitest
+  * Playwright
+  * Render
+  * dBeaver
 
 </details>
