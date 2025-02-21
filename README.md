@@ -33,5 +33,10 @@ When I'm not learning I'm usually immersed in an audio book, cuddling a cat 🐈
   * Render
   * dBeaver
   * React
+  * Next.js
+  * Snyk
+  * NextAuth
+  * Clerk
+  * Docker
 
 </details>
