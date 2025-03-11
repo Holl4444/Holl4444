@@ -4,7 +4,7 @@
 <br>
 ## Hi, I'm Holly.<br>
 I've just completed my journey with [School of Code](https://schoolofcode.co.uk/) and am making my first steps towards a career in tech.
-The areas o coding I've encountered to date that have most excited my interest are UX and AI but I'm loving *every* aspect of coding so far and excited to push myself further. 
+The fields I've encountered to date that have most excited my interest are UX and AI but I'm loving *every* aspect of coding so far and excited to push myself further. 
 
 When I'm not learning I'm usually immersed in an audio book, cuddling a cat 🐈‍⬛ or playing computer games.
 
