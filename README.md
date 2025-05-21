@@ -42,4 +42,5 @@ When I'm not learning I'm usually immersed in an audio book, cuddling a cat 🐈
   - dBeaver
   - Snyk
   - NextAuth
+  - Sentry
 </details>
